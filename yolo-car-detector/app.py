@@ -8,7 +8,7 @@ from typing import Any
 
 
 # AutoHeal updates this value to the filename attached to a GitHub release.
-MODEL_NAME = 'yolov8n.pt'
+MODEL_NAME = 'yolo11n.pt'
 MODEL_DIR = Path(__file__).resolve().parent / "models"
 CAR_CLASS_ID = 2  # COCO class index for "car".
 
